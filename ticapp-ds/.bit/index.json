@@ -1,0 +1,85 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": null,
+        "name": "components/header"
+      },
+      "isSymlink": true,
+      "hash": "437e72ef331eb6687451c7c9871a5128e4433106"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/my-welcome"
+      },
+      "isSymlink": true,
+      "hash": "e1adb498b0e2d3572e602d7aee2e397efdc07fef"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/header"
+      },
+      "isSymlink": true,
+      "hash": "b6fc7a33c5a7af8fe8177ea82b7af694a441f1b8"
+    },
+    {
+      "id": {
+        "scope": "ticapp-scope",
+        "name": "components/header"
+      },
+      "isSymlink": false,
+      "hash": "91b599c2d9987f06332c12922bcadc49ba8000c5"
+    },
+    {
+      "id": {
+        "scope": "ticapp-scope",
+        "name": "ui/header"
+      },
+      "isSymlink": false,
+      "hash": "58e0bbd3a9b361f33aafc47a043a32d7284d0733"
+    },
+    {
+      "id": {
+        "scope": "ticapp-scope",
+        "name": "ui/my-welcome"
+      },
+      "isSymlink": false,
+      "hash": "99146a4f65def3f7ef2564bffc9df116fdf01dd7"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ds/header"
+      },
+      "isSymlink": true,
+      "hash": "726a5f19fc33dd613da7e299b837288e26217a64"
+    },
+    {
+      "id": {
+        "scope": "ticapp-scope",
+        "name": "ds/header"
+      },
+      "isSymlink": false,
+      "hash": "f4aac6be3273446a99c27544777fd6b00557bd88"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ds/footer"
+      },
+      "isSymlink": true,
+      "hash": "b4294ef7c2e0ac63895b73f9db611a7ac8e8ba4f"
+    },
+    {
+      "id": {
+        "scope": "ticapp-scope",
+        "name": "ds/footer"
+      },
+      "isSymlink": false,
+      "hash": "319754acc1cd31def530e7d71cb6208e16d36526"
+    }
+  ],
+  "lanes": []
+}

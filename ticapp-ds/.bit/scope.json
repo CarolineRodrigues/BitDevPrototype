@@ -1,0 +1,11 @@
+{
+    "name": "ticapp-ds",
+    "remotes": {
+        "ticapp-scope": "http://localhost:4002"
+    },
+    "version": "1.0.241",
+    "lanes": {
+        "current": "main",
+        "tracking": []
+    }
+}
